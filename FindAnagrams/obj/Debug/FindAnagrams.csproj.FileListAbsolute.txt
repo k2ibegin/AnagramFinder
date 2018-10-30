@@ -1,0 +1,7 @@
+C:\Users\kAdhikari\source\repos\FindAnagrams\FindAnagrams\bin\Debug\FindAnagrams.dll.config
+C:\Users\kAdhikari\source\repos\FindAnagrams\FindAnagrams\bin\Debug\FindAnagrams.dll
+C:\Users\kAdhikari\source\repos\FindAnagrams\FindAnagrams\bin\Debug\FindAnagrams.pdb
+C:\Users\kAdhikari\source\repos\FindAnagrams\FindAnagrams\obj\Debug\FindAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\kAdhikari\source\repos\FindAnagrams\FindAnagrams\obj\Debug\FindAnagrams.dll
+C:\Users\kAdhikari\source\repos\FindAnagrams\FindAnagrams\obj\Debug\FindAnagrams.pdb
+C:\Users\kAdhikari\source\repos\FindAnagrams\FindAnagrams\obj\Debug\FindAnagrams.csprojAssemblyReference.cache
